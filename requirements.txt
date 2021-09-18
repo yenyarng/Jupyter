@@ -13,3 +13,5 @@ scikit-fuzzy
 pillow
 beautifulsoup4
 skia-python
+
+# i had make some changes
